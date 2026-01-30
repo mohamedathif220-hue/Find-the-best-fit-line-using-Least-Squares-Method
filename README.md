@@ -43,11 +43,8 @@ plt.scatter(x, y)
 plt.plot(x, y_predicted, color='red')
 plt.show()
 
-## Output:
-<img width="369" height="36" alt="Screenshot 2026-01-30 112401" src="https://github.com/user-attachments/assets/e6194886-63cc-4cf8-963c-b969847aaa86" />
-<img width="736" height="42" alt="Screenshot 2026-01-30 112408" src="https://github.com/user-attachments/assets/a0fd6433-d249-4713-9222-0f6cf1a56a5d" />
-<img width="909" height="497" alt="Screenshot 2026-01-30 112337" src="https://github.com/user-attachments/assets/0088b132-46e6-4edb-86b0-9e4dc416f45f" />
-
+## output
+<img width="369" height="36" alt="Screenshot 2026-01-30 112401" src="https://github.com/user-attachments/assets/d4c960bb-a825-4100-a97b-d8e6c91f5922" />
 
 
 
