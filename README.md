@@ -44,9 +44,10 @@ plt.plot(x, y_predicted, color='red')
 plt.show()
 
 ## Output:
-<img width="369" height="36" alt="Screenshot 2026-01-30 112401" src="https://github.com/user-attachments/assets/fe319980-75a6-4839-9ce1-5c3f1be8ab76" />
-<img width="736" height="42" alt="Screenshot 2026-01-30 112408" src="https://github.com/user-attachments/assets/80cb211b-f41f-48bd-9b7c-4d3f180aab19" />
-<img width="909" height="497" alt="Screenshot 2026-01-30 112337" src="https://github.com/user-attachments/assets/3e75680e-4c19-4037-9630-b2901e77612f" />
+<img width="369" height="36" alt="Screenshot 2026-01-30 112401" src="https://github.com/user-attachments/assets/e6194886-63cc-4cf8-963c-b969847aaa86" />
+<img width="736" height="42" alt="Screenshot 2026-01-30 112408" src="https://github.com/user-attachments/assets/a0fd6433-d249-4713-9222-0f6cf1a56a5d" />
+<img width="909" height="497" alt="Screenshot 2026-01-30 112337" src="https://github.com/user-attachments/assets/0088b132-46e6-4edb-86b0-9e4dc416f45f" />
+
 
 
 
